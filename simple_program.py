@@ -1,2 +1,3 @@
-name = input("Enter your name: ")
-print(f"Hello, {name}! Welcome to Python.")
+print("Hello, World!")
+print("Welcome to Jenkins.")
+print("Python program executed successfully.")
